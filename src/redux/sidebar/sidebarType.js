@@ -1,0 +1,11 @@
+export const FETCH_TYPES = "FETCH_TYPES";
+export const GET_TITLE = "GET_TITLE";
+export const GET_TYPE = "GET_TYPE";
+export const GET_IDTITLE = "GET_IDTITLE";
+export const GET_IDTYPE = "GET_IDTYPE";
+export const GET_BYTYPE = "GET_BYTYPE";
+export const GET_BYBRAND = "GET_BYBRAND";
+export const GET_BYRATING = "GET_BYRATING";
+export const GET_BYPRICESTART = "GET_BYPRICESTART";
+export const GET_BYPRICEEND = "GET_BYPRICEEND";
+export const GET_CLEARFILTER = "GET_CLEARFILTER";
